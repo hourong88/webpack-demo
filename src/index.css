@@ -1,0 +1,14 @@
+
+
+/* 标题 */
+.header {
+  padding: 80px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+}
+
+/* 标题字体加大 */
+.header h1 {
+  font-size: 40px;
+}
